@@ -17,3 +17,5 @@ This assignment invites a developer to explore the use of GitHub project boards 
 1. Create at least three GitHub issues in each others' repositories.
 2. In your own repository, create GitHub project board with at least three columns and with some automation. Populate the board and practice moving cards across columns. Make sure all boxes under "Welcome to GitHub Projects" are checked.
 3. Explore [GitHub Actions](https://docs.github.com/en/actions) and add build [badge](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge) to your Markdown README file.
+
+[![Actions Status](../../workflows/build/badge.svg)](../../actions)
